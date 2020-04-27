@@ -17,5 +17,5 @@ class NewsTest(unittest.TestCase):
         self.assertTrue(isinstance(self.new_news,News))
 
 
-if __name__ == '__main__':
-    unittest.main()
+# if __name__ == '__main__':
+#     unittest.main()
